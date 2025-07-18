@@ -19,3 +19,4 @@ jobs:
           base_uri: https://st-rc.perf.cxast.net/
           cx_client_id: carina_githug
           cx_client_secret: 4vKL7ZvGfHiaLgDPd8uzKgUUSKzPbiYB
+          additional_params: --scan-types sast
